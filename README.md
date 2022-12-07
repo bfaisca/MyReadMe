@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Olá sou Brendo Faísca, desenvolvedor graduado em ADS no IFSP e MBA em FullStack Developer pela Impacta.</p>
+<p align="left">Aqui estudo um pouco de cada coisa e tento aprimorar a minha base de conhecimento.</p>
 
 ###
 
