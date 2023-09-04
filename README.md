@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor desde 2020</p>
+<p align="left">✨ Sou um desenvolvedor Backend, com quase 4 anos de experiência , atuando principalmente com C#. Tenho facilidade em trabalhar com outras linguagens quando for preciso. Nesse tempo trabalhei em setores diferentes do mercado então consigo me adaptar as regras de negocio de forma rápida.</p>
 
 ###
 
